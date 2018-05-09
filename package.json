@@ -1,0 +1,26 @@
+{
+  "name": "netlify-nuxt-example",
+  "version": "1.0.0",
+  "description": "``` npm i nuxt-edge ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n-ohshiro-yumemi/netlify-nuxt-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n-ohshiro-yumemi/netlify-nuxt-example/issues"
+  },
+  "homepage": "https://github.com/n-ohshiro-yumemi/netlify-nuxt-example#readme",
+  "dependencies": {
+    "nuxt-edge": "^2.0.0-25429981.9298177"
+  }
+}
