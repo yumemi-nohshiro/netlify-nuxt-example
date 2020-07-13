@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/n-ohshiro-yumemi/netlify-nuxt-example#readme",
   "dependencies": {
-    "nuxt-edge": "^2.0.0-25429981.9298177"
+    "nuxt": "^2.13.3"
   }
 }
